@@ -1,0 +1,23 @@
+u- underline
+i- italic
+b- bold
+
+<!--<td></td>--> untuk nda nmpak rh pages
+
+ol-number
+ol start- pick from what number
+li
+
+ul-bullet point
+li
+
+br- 'enter'
+p- paragraph
+
+a- linking pages
+table- table
+tr & th - column in table
+
+img
+/ ->
+.. <-
